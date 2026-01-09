@@ -2,7 +2,7 @@ import streamlit as st
 
 # ১. দোকানের তথ্য (এখানে আপনার নম্বর দিন)
 SHOP_NAME = "My Hardware & Electric Store"
-WHATSAPP_NUMBER = "8801XXXXXXXXX" # আপনার সঠিক হোয়াটসঅ্যাপ নম্বর দিন
+WHATSAPP_NUMBER = "8801867981513" # আপনার সঠিক হোয়াটসঅ্যাপ নম্বর দিন
 
 st.set_page_config(page_title=SHOP_NAME, page_icon="🛠️")
 st.title(f"🏠 {SHOP_NAME}")
